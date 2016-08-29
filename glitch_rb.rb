@@ -1,5 +1,11 @@
 require "glitch_rb/version"
 
 module GlitchRb
-  # Your code goes here...
+  # get input image
+
+  # glitch pic
+  ## detect rectangle surrounds with the face
+  ## glitching
+
+  # output glitched image
 end
